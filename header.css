@@ -103,3 +103,13 @@
     position: relative;
     float: left;
 }
+#header .header_ch_nav .header_ch_gnb ul li a{
+    position: relative;
+    padding: 0 34px 2px 0;
+    font-size: 16px;
+    color: #000000;
+    letter-spacing: -1px;
+    line-height: 52px;
+    text-decoration: none;
+    display: block;
+}
