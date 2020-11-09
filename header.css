@@ -113,3 +113,21 @@
     text-decoration: none;
     display: block;
 }
+#header .header_ch_nav .header_ch_gnb ul li a span.depth1-item{
+    position: relative;
+    font-size: 16px;
+    color: #000000;
+    letter-spacing: -1px;
+    line-height: 52px;
+    text-decoration: none;
+    display: block;
+}
+#header .header_ch_nav .header_ch_gnb ul li a span.depth1-item em{
+    position: absolute;
+    left: 0;
+    bottom: -3px;
+    width: 100%;
+    height: 3px;
+    background: #f38d26;
+    display: none;
+}
