@@ -42,6 +42,3 @@ a, a:link, a:active, a:visited {
     color: #666;
     text-decoration: none;
 }
-a:-webkit-any-link{
-    cursor: pointer;
-}
