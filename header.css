@@ -56,3 +56,15 @@
     text-indent: -99999px;
     display: block;
 }
+#header .header_mini_nav ul{
+}
+#header .header_mini_left{
+    position: absolute;
+    left: 61px;
+    top: 4px;
+}
+#header .header_mini_right{
+    position: absolute;
+    left: 61px;
+    top: 4px;
+}
