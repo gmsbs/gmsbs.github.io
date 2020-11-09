@@ -16,6 +16,7 @@ body{
 body::selection{
     background: #aeaeae;
     color: #000;
+    text-shadow: none;
 }
 
 h1, h2, h3, h4, h5, h6, form, div, p, em, img, table, tr, td, fieldset, label, dl, dt, dd{
