@@ -26,3 +26,16 @@
     padding: 40px 0 0 0;
     z-index: 2;
 }
+#header .header_mini_nav{
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 400px;
+    z-index: 11;
+}
+#header .header_mini_inner{
+    position: relative;
+    width: 100%;
+    height: 40px;
+}
