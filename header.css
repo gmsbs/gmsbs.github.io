@@ -39,3 +39,11 @@
     width: 100%;
     height: 40px;
 }
+#header .header_mini_nav h2 a {
+    width: 100%;
+    height: 100%;
+    font-size: 0;
+    line-height: 0;
+    text-indent: -99999px;
+    display: block;
+}
