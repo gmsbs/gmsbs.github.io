@@ -39,7 +39,16 @@
     width: 100%;
     height: 40px;
 }
-#header .header_mini_nav h2 a {
+#header .header_mini_nav h2{
+    position: absolute;
+    left: 0;
+    top: 7px;
+    width: 70px;
+    height: 26px;
+    background: url(http://www.gmsh.hs.kr/upload/gmsh.hs.kr/site_file/logo.jpg) no-repeat left center;
+    display: block;
+}
+#header .header_mini_nav h2 a{
     width: 100%;
     height: 100%;
     font-size: 0;
