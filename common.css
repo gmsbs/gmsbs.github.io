@@ -13,6 +13,10 @@ body{
     line-height: 1.4;
     display: block;
 }
+body::selection{
+    background: #aeaeae;
+    color: #000;
+}
 
 h1, h2, h3, h4, h5, h6, form, div, p, em, img, table, tr, td, fieldset, label, dl, dt, dd{
     padding: 0;
@@ -22,9 +26,4 @@ h1, h2, h3, h4, h5, h6, form, div, p, em, img, table, tr, td, fieldset, label, d
 
 div{
     display: block;
-}
-
-::selection{
-    background: #aeaeae;
-    color: #000;
 }
