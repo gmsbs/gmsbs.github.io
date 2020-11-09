@@ -68,3 +68,8 @@
     left: 61px;
     top: 4px;
 }
+#header .header_ch_nav{
+    position: relative;
+    width: 100%;
+    height: 125px;
+}
