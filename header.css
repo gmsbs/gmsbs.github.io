@@ -93,6 +93,9 @@
     line-height: 72px;
     display: inline-block;
 }
+#header .header_ch_nav .header_ch_heading h1 a img{
+    width: 100%;
+}
 #header .header_ch_nav .header_ch_gnb{
     padding: 71px 100px 0 0;
 }
