@@ -122,7 +122,7 @@
     text-decoration: none;
     display: block;
 }
-#header .header_ch_nav .header_ch_gnb ul li a span.depth1-item :hover{
+#header .header_ch_nav .header_ch_gnb ul li a span.depth1-item* :hover{
     visibility :visible;
 }
 #header .header_ch_nav .header_ch_gnb ul li a span.depth1-item em{
