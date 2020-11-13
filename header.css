@@ -58,12 +58,12 @@
 }
 #header .header_mini_left{
     position: absolute;
-    left: 61px;
+    left: 0px;
     top: 4px;
 }
 #header .header_mini_right{
     position: absolute;
-    left: 61px;
+    left: 0px;
     top: 4px;
 }
 #header .header_ch_nav{
